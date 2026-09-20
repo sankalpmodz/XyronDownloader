@@ -1,0 +1,11 @@
+pyrogram
+tgcrypto
+motor
+yt-dlp
+apscheduler
+dnspython
+gallery-dl
+aiohttp
+psutil
+python-dotenv
+yt-dlp-ejs

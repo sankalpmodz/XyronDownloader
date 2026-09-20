@@ -1,0 +1,102 @@
+SankalpModz Source-Available & Restricted License (v1.0)
+Copyright (c) 2026 SankalpModz (https://github.com/sankalpmodz)
+All Rights Reserved.
+
+==============================================================================
+PREAMBLE
+==============================================================================
+This Software is source-available for personal, educational, and non-commercial
+evaluation. It is NOT open-source software under the Open Source Definition (OSD)
+or Free Software Definition (FSD). The author reserves exclusive rights to the
+distribution, branding, and commercialization of this codebase.
+
+By accessing, viewing, downloading, cloning, or executing any part of this Software,
+you acknowledge that you have read, understood, and agreed to be bound by the
+terms and conditions set forth in this License.
+
+==============================================================================
+1. PERMITTED USES
+==============================================================================
+Subject to the restrictions outlined below, the copyright holder ("SankalpModz")
+grants you a non-exclusive, non-transferable, revocable license to:
+
+  a) Inspect, view, and evaluate the source code for educational and learning purposes.
+  b) Self-host and run a private, non-commercial instance of the bot solely for
+     personal use.
+  c) Submit bug reports, feature suggestions, or pull requests directly to the
+     official repository maintained by SankalpModz.
+
+==============================================================================
+2. STRICT PROHIBITIONS & RESTRICTIONS
+==============================================================================
+You shall NOT, under any circumstances, directly or indirectly:
+
+  a) UNAUTHORIZED REDISTRIBUTION & RE-UPLOADING:
+     You may NOT republish, mirror, re-upload, host, or distribute copies or derivative
+     works of this repository or its source code, in whole or in part, on GitHub,
+     GitLab, Bitbucket, Telegram, forums, cloud hosts, or any public or private
+     platforms without explicit prior written consent from SankalpModz.
+
+  b) NO PUBLIC FORKS FOR REDISTRIBUTION:
+     Creating public forks, mirrors, or clones for the purpose of distribution,
+     sharing, or public presentation without express written permission is strictly
+     prohibited.
+
+  c) NO REBRANDING, PLAGIARISM, OR MISREPRESENTATION:
+     You may NOT remove, alter, obscure, or modify any copyright notices, author
+     attributions ("SankalpModz", "@sankalpmodz"), watermarks, bot identifiers,
+     or license headers from any file in this repository. You may NOT represent,
+     claim, or imply that you are the author, creator, or copyright holder of this
+     codebase or any derivative thereof.
+
+  d) NO COMMERCIAL USE OR MONETIZATION:
+     You may NOT sell, resell, lease, sublicense, rent, monetize, or bundle this
+     Software. You may NOT provide paid bot hosting, paid API access, or charging
+     users for deployment of this Software.
+
+  e) NO PROPRIETARY CLOSED FORKS:
+     You may NOT incorporate this codebase into closed-source or commercial projects.
+
+==============================================================================
+3. COPYRIGHT INFRINGEMENT & DMCA ENFORCEMENT
+==============================================================================
+Any unauthorized distribution, re-upload, public mirroring, removal of copyright
+credits, or commercialization of this Software constitutes willful infringement
+of copyright under international copyright laws (including the Berne Convention)
+and Title 17 of the United States Code (Digital Millennium Copyright Act - DMCA).
+
+In the event of any violation:
+  a) The copyright holder ("SankalpModz") will immediately file DMCA Takedown
+     Notices with GitHub (via https://github.com/contact/dmca) or any hosting
+     service to permanently remove the infringing repository, fork, or account.
+  b) The copyright holder reserves all rights to pursue legal action, statutory
+     damages, and injunctive relief against infringing individuals or entities.
+
+==============================================================================
+4. TERMINATION
+==============================================================================
+This license and any rights granted hereunder shall terminate automatically and
+immediately upon any breach of the terms of this License. Upon termination, you
+must immediately cease all use of the Software and delete all copies in your
+possession or control.
+
+==============================================================================
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+==============================================================================
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+==============================================================================
+AUTHOR & CONTACT
+==============================================================================
+Author:   SankalpModz
+GitHub:   https://github.com/sankalpmodz
+Date:     September 2026
