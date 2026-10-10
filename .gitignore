@@ -31,6 +31,8 @@ env/
 
 xyrondownloader/cookies/*.txt
 !xyrondownloader/cookies/.gitkeep
+cookies/*.txt
+!cookies/.gitkeep
 
 *.session
 *.session-journal

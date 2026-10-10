@@ -64,7 +64,7 @@ async def start(client, message):
         f"**Hey** {name}! 👋\n\n"
         f"__**Multi-Platform Media Downloader**__\n\n"
         f"**Supported Platforms:**\n"
-        f"  ▸ **YouTube**\n"
+        f"  ▸ **YouTube (TypeTube)**\n"
         f"  ▸ **Instagram**\n"
         f"  ▸ **Pinterest**\n"
         f"  ▸ **TikTok**\n\n"

@@ -32,3 +32,7 @@ class Config:
     INSTA_COOKIES_FILE = os.getenv("INSTA_COOKIES_FILE", "xyrondownloader/cookies/insta.txt")
 
     DOWNLOAD_DIR = os.getenv("DOWNLOAD_DIR", "downloads")
+
+    TYPETUBE_API_KEY = os.getenv("TYPETUBE_API_KEY", "")
+    TYPETUBE_ENDPOINT = os.getenv("TYPETUBE_ENDPOINT", "https://typetube.xysushi.in")
+    TYPETUBE_WORKERS = int(os.getenv("TYPETUBE_WORKERS", "6"))

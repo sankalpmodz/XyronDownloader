@@ -9,3 +9,4 @@ aiohttp
 psutil
 python-dotenv
 yt-dlp-ejs
+typetube
